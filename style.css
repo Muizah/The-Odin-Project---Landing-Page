@@ -68,16 +68,15 @@ a {
 }
 
 .container3 {
+  display: flex;
+  flex-direction: column;
   background-color: #d6cec2;
-  text-align: end;
-
+  text-align: center;
   padding: 30px 700px 30px 700px;
+  justify-content: center;
   font-size: large;
-}
-
-.container3 .p_one {
-  width: 250px;
-  text-align: left;
+  align-items: center;
+  gap: 10px;
 }
 
 footer {
@@ -131,7 +130,7 @@ button a {
 
 .subcontainer {
   background-color: #554d4d;
-  width: 1000px;
+  width: 800px;
   padding: 50px 50px 50px 50px;
   display: flex;
   justify-content: center;
@@ -143,7 +142,7 @@ button a {
 
 .container4 {
   background-color: #ffffff;
-  padding: 50px 0 50px 350px;
+  padding: 50px 0 50px 450px;
 }
 
 .container4 button {
