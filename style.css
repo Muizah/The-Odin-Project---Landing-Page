@@ -132,10 +132,22 @@ button a {
 .container4 {
   background-color: #554d4d;
   width: 1000px;
+  padding: 50px 50px 50px 50px;
   display: flex;
+  justify-content: center;
+  margin-left: 350px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  gap: 100px;
 }
 
 .container4 button {
   background-color: transparent;
   border: 2px solid #ffffff;
+}
+
+footer {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
