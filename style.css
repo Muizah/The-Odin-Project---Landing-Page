@@ -135,7 +135,7 @@ button a {
   padding: 50px 50px 50px 50px;
   display: flex;
   justify-content: center;
-  margin-left: 350px;
+  margin-left: 250px;
   margin-top: 50px;
   margin-bottom: 50px;
   gap: 100px;
@@ -150,4 +150,8 @@ footer {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+a:hover {
+  color: #cfb1b1;
 }
