@@ -72,11 +72,15 @@ a {
   flex-direction: column;
   background-color: #d6cec2;
   text-align: center;
-  padding: 30px 700px 30px 700px;
+  padding: 30px 500px 30px 500px;
   justify-content: center;
   font-size: large;
   align-items: center;
   gap: 10px;
+}
+
+.p_one {
+  width: 250px;
 }
 
 footer {
@@ -142,7 +146,7 @@ button a {
 
 .container4 {
   background-color: #ffffff;
-  padding: 50px 0 50px 450px;
+  padding: 50px 0 50px 300px;
 }
 
 .container4 button {
